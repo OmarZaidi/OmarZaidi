@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">IT Coordinator @ University of Hawaii</h3>
+<h3 align="center">IT Coordinator @ ULS</h3>
 
 - 🎓 Currently pursuing **Computer Science & Philosophy**
 
