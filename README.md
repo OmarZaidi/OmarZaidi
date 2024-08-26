@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently studying **Computer Science & Philosophy**
 
-- 🌱 Currently learning about **Penetration Testing, Ethical Consulting, and Physical Security**
+- 🌱 Currently interested in **Penetration Testing, Ethical Consulting, and Physical Security**
 
-- 🖥️ Experienced **IT Administrator/Coordinator** with a background in the IT field.
+- 🖥️ Experienced **IT Administrator/Coordinator**
 
 - 🌉 Originally from the Bay Area, I’m invested in the future of tech and its ethical implications.
 
-- 🥁 I’ve played drums professionally and enjoy sound engineering.
+- 🥁 I play drums professionally and enjoy sound engineering.
 
 - 👨‍💻 Check out my projects at [https://OmarZaidi.github.io/](https://OmarZaidi.github.io/)
 
