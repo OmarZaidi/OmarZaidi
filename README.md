@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">IT Coordinator @ ULS</h3>
+<h3 align="center">IT Manager/SYS admin</h3>
 
-- 🎓 Currently pursuing **Computer Science & Philosophy**
+- Currently pursuing **Computer Science & Philosophy**
 
-- 🚀 Learning more about **Penetration Testing, Ethical Consulting, and Physical Security**
+-  Learning more about **Penetration Testing, Ethical Consulting, and Physical Security**
 
-- 💼 Experienced **IT Administrator/Coordinator** with a background in the IT field
+-  Experienced **IT Administrator/Coordinator** with a background in the IT field
 
-- 🌉 Originally from the Bay Area, with a strong interest in the future of tech and its ethical implications
+-  Originally from the Bay Area, with a strong interest in the future of tech and its ethical implications
 
-- 🥁 I play drums professionally and enjoy sound engineering
+-  I play drums professionally and enjoy sound engineering
 
-- 👨‍💻 Check out my projects at [OmarZaidi.github.io](https://OmarZaidi.github.io/)
+-  Check out my projects at [OmarZaidi.github.io](https://OmarZaidi.github.io/)
 
-- 📫 Reach me at **omarz@hawaii.edu**
+-  Reach me at **omarz@hawaii.edu**
 
-- 🌍 Fun fact: **Spanish was my first language**
+-  Fun fact: **Spanish was my first language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
